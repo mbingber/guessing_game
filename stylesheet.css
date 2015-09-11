@@ -1,0 +1,23 @@
+body {
+	background-image: url('img/question.jpg');
+}
+
+div {
+	width: 50%;
+	border-radius: 5px;
+	text-align: center;
+	margin: auto;
+	margin-top: 20%;
+	background-color: grey;
+	color: black;
+}
+
+
+h1 {
+	padding: 3%;
+}
+
+
+
+
+
